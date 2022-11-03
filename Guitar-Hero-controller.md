@@ -7,7 +7,9 @@ caption: Το Guitar Hero χειριστήριο της Harmonix Music Systems �
 license_url: "https://upload.wikimedia.org/wikipedia/commons/5/59/Guitar-hero-controller-horiz.jpg"
 license_text: Wikipedia
 categories:
-  - Video games
+  - Βιντεοπαιχνίδια
+  - Αρχέτυπα
+  - Μορφές
   - input-device
 tags: 
   - Guitar Hero
