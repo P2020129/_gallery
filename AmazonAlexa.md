@@ -7,9 +7,10 @@ Caption: Είναι μια τεχνολογία εικονικού βοηθού.
 License_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/AmazonAlexaBooth.jpg/1024px-AmazonAlexaBooth.jpg"
 License_text: Wikipedia 
 Categories:
-  - IoT
-  - Virtual Assistant
+  - Μοντέλα 
+  - Μορφές
 Tags: 
   - Amazon
+  - Virtual Assistant
   - AI
 ---
