@@ -13,5 +13,4 @@ categories:
 tags: 
   - DAW
   - Ardour
-  - Προσομοίωση
 ---
