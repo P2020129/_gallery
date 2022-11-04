@@ -7,8 +7,8 @@ Caption: Το Ubuntu είναι μιά διανομή Linux που βασίζε�
 License_url: " https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Ubuntu_22.10_Kinetic_Kudu.png/1280px-Ubuntu_22.10_Kinetic_Kudu.png"
 License_text: Canonical Ltd. 
 Categories:
-  - Cloud Computing 
-  - IoT ecosystem 
+  - Τεχνολογία
+  - Εργαλεία και Τεχνικές
 Tags: 
   - IoT
   - Ubuntu
