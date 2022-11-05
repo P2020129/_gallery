@@ -1,6 +1,6 @@
 ---
 author: SofiaChiali
-title: apple-mouses
+title: the-apple-mouse
 image_url: /images/the-apple-mouse.png
 caption: 'Πέντε διαφορετικά μοντέλα ποντικιών κατασκευασμένα απο την Apple, με ενα κουμπί προκειμένου να απλοποιείτε η χρήση τους και με μηχανισμό μπάλας στο κάτω μέρος.'
 license_url: 'https://en.wikipedia.org/wiki/Apple_Mouse#/media/File:The_Apple_Mouse.jpg'
