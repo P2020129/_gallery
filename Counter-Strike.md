@@ -2,18 +2,17 @@
 author: p20poli
 title: Counter-Strike
 year: 2000
-image_url: /images/Counter-Strike_Logo.png
+image_url: /images/Counter strike.png
 caption: Το Counter Strike είναι ένα βιντεοπαιχνίδι που ανήκει στην κατηγορία των fps(first person shooter) όπου βγήκε το 2000 από την εταιρία Valve.
 license_url: "https://en.wikipedia.org/wiki/Counter-Strike#/media/File:Counter-Strike_Logo.png" 
 license_text: Wikipedia
 categories:
-  - Πληκτρολόγιο
-  - ποντίκι
-  - Γραφικό Περιβάλλον
+  - Τεχνολογία
+  - Σύνθεση
+  - Βιντεοπαιχνίδια
 tags:
-  - menu
-  - video game
-  - graphics
+  - Videogames
+  - Graphics
   - FPS
   - Valve
 ---
