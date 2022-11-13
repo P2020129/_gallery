@@ -8,6 +8,7 @@ license_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ardour_6
 license_text: Wikipedia
 categories:
   - Μοντέλα
+  - Σύνθεση
   - Εργαλεία
   - Προσομοίωση
 tags: 
