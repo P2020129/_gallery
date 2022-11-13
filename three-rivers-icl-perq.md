@@ -7,7 +7,7 @@ caption: Το Perq βασισμένο στα πρωτότυπα concept σχέδ
 license_url: http://toastytech.com/guis/perq.html
 license_text: Toasty Tech
 categories:
-  - Μοντέλα
+  - Εργαλεία και Τεχνικές
 tags:
   - Three Rivers Computer Corporation
   - ICL
