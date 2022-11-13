@@ -11,6 +11,7 @@ categories:
   - Μορφές
   - input-device
   - Βιντεοπαιχνίδια
+  - Προσομοίωση
 tags: 
   - Guitar Hero
   - Controller
