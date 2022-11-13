@@ -13,4 +13,5 @@ tags:
  - Κονσόλες
  - Nintendo
  - Nintendo Entertainment System
+ - Nintendo64
 ---
