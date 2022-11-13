@@ -9,8 +9,7 @@ license_text: Wikipedia
 categories:
   - Μοντέλα
   - Σύνθεση
-  - Εργαλεία
-  - Προσομοίωση
+  - Πολυμεσικά Συστήματα
 tags: 
   - DAW
   - Ardour
