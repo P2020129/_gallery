@@ -9,7 +9,7 @@ license_text: Wikipedia
 categories:
   - Μοντέλα
   - Εργαλεία
-  - Τεχνολογία
+  - Προσομοίωση
 tags: 
   - DAW
   - Ardour
