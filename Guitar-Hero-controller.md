@@ -9,7 +9,7 @@ license_text: Wikipedia
 categories:
   - Αρχέτυπα
   - Μορφές
-  - input-device
+  - Συσκευές Εισόδου
   - Βιντεοπαιχνίδια
 tags: 
   - Guitar Hero
